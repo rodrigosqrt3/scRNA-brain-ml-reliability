@@ -2,7 +2,7 @@
 
 This repository contains the reproducible R code accompanying the paper:
 
-**Machine Learning for Cell Type Classification in Single-Cell RNA Sequencing: Grouped Validation and Open-Set Evaluation**
+Machine Learning for Cell Type Classification in Single-Cell RNA Sequencing: Grouped Validation and Open-Set Evaluation
 
 The study was accepted at the II Escola Regional de Aprendizado de Máquina e Inteligência Artificial da Região Sul (ERAMIA-RS 2026).
 
